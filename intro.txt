@@ -4,3 +4,6 @@ How to configure git using command prompt
 
 git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
+
+Git is runing the source control on personal  machine (laptop)
+GitHub is runing source control on cloud the safest place  
