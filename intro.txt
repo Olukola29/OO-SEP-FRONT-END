@@ -1,1 +1,6 @@
 How to create Front End using HTML and CSS and JavaSCript
+
+How to configure git using command prompt 
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
