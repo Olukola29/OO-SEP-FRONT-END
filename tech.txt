@@ -1,0 +1,28 @@
+Front - End technologies
+
+HTML
+
+
+
+
+
+ CSS 
+ 
+ 
+ 
+ 
+ JS
+
+ first task
+
+ 1. Creat a text box or any control (textbox, dropdown, button).
+        -HTML.
+
+ 2. Apply designs - colours boder background.
+        - CSS
+
+ 3. Event handling 
+     => to respond to user actions.
+     - Javascript. - to handle Event raised by users while usng HTML controls
+
+     React => (HTML+CSS+JS) = Browser.

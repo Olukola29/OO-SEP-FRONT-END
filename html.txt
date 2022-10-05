@@ -1,0 +1,36 @@
+HTML.
+=> For the browser, to creat controls.
+=> Hypertext Markup Language.
+
+=> HTML is a language ? understood by browser.
+=> HTML is Not a programming Language.
+=> HTML is just a Markup Language.
+    => because of the grammar and syntax. 
+    => <HTML></HTML>
+    => <HTML>other content</HTML>
+
+=> HyperText. 
+ 
+
+    SignUp Form
+        1. name (textbox)
+        2. email
+        3. password
+        4. phone
+        5. dob
+        6. gender
+        7. username
+        8. address
+        9. country
+
+
+        Tags.
+
+        HTML -> A site
+        Head -> Header Info
+        BODY ->
+        h1, h2, h3,h4
+        Form -> 
+        Input -> allow user to creat input self closing tag
+
+        link to github of work done so far /https://github.com/dheerajsk/kh-sep-front-end
