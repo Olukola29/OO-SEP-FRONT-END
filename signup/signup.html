@@ -9,20 +9,51 @@
 <!-- Head includes header information about page -->
 
 <head>
-    <h1> Please fill the form below</h1>
+    <link rel="stylesheet" href="signup.css">
+    <!-- <style>
+        /* block based on */
+
+        #formcontainer{
+            background-color: greenyellow; 
+        }
+        #headcontainer{
+            background-color: red
+
+        }
+        h3{
+            color:aquamarine
+        }
+
+        span{
+            color:red
+            }
+        
+        .text-wrapper {
+            /* Border: width, px => Pixels., type of border => Solid, Colour of border */
+            border: 1px solid green
+        }
+
+        * { 
+            /* This applies to elemnt which colour or css is not already applied (the lowest priority) */
+            color:orange
+        }
+
+    </style> -->
 
 </head>
 
 <!-- Body contains all the control for UI -->
 
 <body>
-    <!-- <h1> Please Signup</h1> -->
+     <h1 id="headcontainer"> you need to signup  </h1>
     <h2> Please Signup</h2>
-    <!-- <h3> Please Signup</h3>
-    <h4> Please Signup</h4>
+     <h3> Please Signup</h3>
+    <!--<h4> Please Signup</h4>
     <h5> Please Signup</h5>
     <h6> Please Signup</h6> -->
-<div>
+
+    <!--  Styles => applies inline CSS -->
+<div id="formcontainer">
 <form>
     <label>Enter Your name</label>
     <input type="text" />
@@ -69,12 +100,19 @@
 </form>
 
 </div>
+
 <span> 
     span 1
 </span>
-<span>
+<span class="text-wrapper">
     span 2
 </span>
+<div class="text-wrapper">
+    Something else
+</div>
     
 </body>
 </html>
+
+
+<h3> End of Form</h3>

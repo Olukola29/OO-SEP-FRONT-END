@@ -1,0 +1,16 @@
+
+
+
+Goal -> Full Stack Developer
+
+=>
+
+1. understanding fundamental
+2. HTML - Done
+3. CSS
+4. Javascript
+5. ReactJS => Start Project Based Learning.
+    => Here Front - end complete
+6. NodeJS/ ExpressJS
+7. MongoDB. 
+8.

@@ -1,0 +1,33 @@
+
+
+/* block based on */
+
+
+/* ID selector */
+#formcontainer{
+    background-color: greenyellow; 
+}
+#headcontainer{
+    background-color: red
+
+}
+
+/* TAg selector */
+h3{
+    color:aquamarine
+}
+
+span{
+    color:red
+    }
+/* Class */
+
+.text-wrapper {
+    /* Border: width, px => Pixels., type of border => Solid, Colour of border */
+    border: 1px solid green
+}
+
+* { 
+    /* This applies to elemnt which colour or css is not already applied (the lowest priority) */
+    color:orange
+}
