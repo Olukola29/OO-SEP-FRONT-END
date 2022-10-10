@@ -1,0 +1,65 @@
+
+
+
+compiler language. (java,python, Go) => High level language
+    => Translate java into machine language.
+    Interpreter language    => HTML.
+    =>Browser parses HTML
+        (to check syntaxs, grammars.)
+
+Machine level language - [Apple, Intel, AMD]
+
+system.out.println("Hello");
+
+Intel -> READ, Write, PRINT, HOLD, RUN.
+
+
+java.
+
+Compiler Types: AOT (Ahead of time)
+                JIT (Just in Time)
+
+PRINT "Hello"
+
+AOT
+
+1. write a java program.
+2. converting in machine language.
+3. Faster
+4. Not platform independent (c, c++, c#, without .net .core)
+
+
+JIT
+
+1. write a program.
+2. Run on Machine.
+3. compied just before runing.
+4. java, js,Go, c#
+5. java Runtime, JRE, .NET, NodeJS.
+
+
+
+Agender for the day
+
+1. complete Form2. More Tags - Div, span, a,
+3. HTML
+4. Inline vs Block level element.
+5. wht is element. elemnt vs tag
+
+
+Element is a complete writen Tag (<form></form>)
+
+Inline Element. (<span></span>)
+    => occupies Ui space as much as it needd.
+    => inline element can start on the same line if there are space.
+    => cant give height/wideth to inline element.
+
+
+
+
+Block level Element (<div></div>) 
+    => occupies entire line.
+    => start on new line.
+    => chsnge heightand width.
+
+
