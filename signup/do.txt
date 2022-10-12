@@ -1,0 +1,21 @@
+
+
+1.
+Signup Header
+color.
+increase font size
+change font
+
+2.
+container.
+some padding
+some margin.
+light border.
+3.
+control
+
+
+
+https://github.com/dheerajsk/kh-sep-front-end
+
+https://github.com/dheerajsk/kh-sep-front-end

@@ -1,0 +1,68 @@
+
+
+.container{
+    display:flex;
+}
+
+.left-container{
+    width: 30%;
+}
+
+#formcontainer{
+    /* Bix Model. */
+    border-left: 1px groove lightblue;
+    /* space between element and border */
+    /* padding: top right */
+    padding: 12px 12px 12px 12px;
+    margin: 18px;
+    padding-bottom: 60px;
+}
+
+#singupHeader{
+    color:blue;
+    font-size: 30px;
+    font-weight:bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form-control{
+    /* it will display control like a block element */
+    display:block;
+    /* 100% of what ? => 100% of parent. */
+    width: 100%;
+    height: 36px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    font-size:large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 6px;
+    padding: 6px;
+
+}
+.form-radio{
+    /* it will display control like a block element */
+    display:block;
+    /* 100% of what ? => 100% of parent. */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 4px;
+    padding: 4px;
+}
+
+.form-label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form-group{
+    margin: 12px;
+}
+
+.btn-form{
+    float: right;
+    margin: 12px;
+    height: 36px;
+    width: 120px;
+    font-size: large;
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+    cursor: pointer;
+}
